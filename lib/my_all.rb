@@ -10,7 +10,8 @@ def my_all?(collection)
   if block_return_values.included?(false)
     false
   else
-    
+    true 
+  end 
 end
 
 
